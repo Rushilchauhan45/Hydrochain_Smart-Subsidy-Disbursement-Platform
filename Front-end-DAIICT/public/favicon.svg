@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#0066CC"/>
+  
+  <!-- Water drop shape -->
+  <path d="M16 6C16 6 21 11 21 16C21 18.7614 18.7614 21 16 21C13.2386 21 11 18.7614 11 16C11 11 16 6 16 6Z" fill="#00AAFF"/>
+  
+  <!-- Blockchain chain links -->
+  <rect x="8" y="24" width="4" height="3" rx="1" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="13" y="24" width="4" height="3" rx="1" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="18" y="24" width="4" height="3" rx="1" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- Connection lines -->
+  <line x1="12" y1="25.5" x2="13" y2="25.5" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+  <line x1="17" y1="25.5" x2="18" y2="25.5" stroke="#FFFFFF" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Water ripple effect -->
+  <circle cx="16" cy="16" r="8" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3"/>
+  <circle cx="16" cy="16" r="11" fill="none" stroke="#FFFFFF" stroke-width="0.5" opacity="0.2"/>
+</svg>
